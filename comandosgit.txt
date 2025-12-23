@@ -1,8 +1,8 @@
 Esse é um arquivo em que eu vou listar todos os comandos git utilizados durante essa atividade do roteiro do módulo 4 do Whitebeard.
 
 - git init 
-- git clone https://github.com/VictorSDS2801/atividaderoteiromodulo4_whitebeard.git 
-- cd .\atividaderoteiromodulo4_whitebeard\ 
+- git clone https://github.com/VictorSDS2801/modulo4_whitebeard.git 
+- cd .\modulo4_whitebeard\ 
 -> iniciando o git e clonando o repositório remoto.
 
 
@@ -43,6 +43,7 @@ Esse é um arquivo em que eu vou listar todos os comandos git utilizados durante
 - git switch main
 - git commit -m "Adicionando os comandos git usados"
 -> adicionando esse arquivo ao repositório remoto
+
 
 
 
