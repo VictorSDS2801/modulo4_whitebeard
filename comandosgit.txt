@@ -1,0 +1,48 @@
+Esse é um arquivo em que eu vou listar todos os comandos git utilizados durante essa atividade do roteiro do módulo 4 do Whitebeard.
+
+- git init 
+- git clone https://github.com/VictorSDS2801/atividaderoteiromodulo4_whitebeard.git 
+- cd .\atividaderoteiromodulo4_whitebeard\ 
+-> iniciando o git e clonando o repositório remoto.
+
+
+- echo "Esse é a resolução da atividade que era para ter sido feita em grupo, porém farei sozinho" >> README.md 
+- git add README.md
+- git commit -m "Adicionando README"
+-> criando e adicionando o README no repositório remoto.
+
+- git branch atividade3
+- git branch atividade5
+- git branch atividade11
+-> criando as branchs das respectivas atividades (nesse momento, tambem criei os arquivos de cada uma das atividades).
+
+- git checkout atividade3
+- git add atividade3m3.js
+-> navegando até a branch da atividade 3 e adicionando o arquivo a branch
+
+- git checkout atividade5
+- git add atividade5m3.js
+-> navegando até a branch da atividade 5 e adicionando o arquivo a branch
+
+- git checkout atividade11
+- git add atividade11m3.js
+-> navegando até a branch da atividade 11 e adicionando o arquivo a branch
+
+- git checkout atividade3
+- git push origin atividade3
+-> criando a PR e depois fazendo o merge na main
+
+- git checkout atividade5
+- git push origin atividade5
+-> criando a PR e depois fazendo o merge na main
+
+- git checkout atividade11
+- git push origin atividade11
+-> criando a PR e depois fazendo o merge na main
+
+- git switch main
+- git commit -m "Adicionando os comandos git usados"
+-> adicionando esse arquivo ao repositório remoto
+
+
+
